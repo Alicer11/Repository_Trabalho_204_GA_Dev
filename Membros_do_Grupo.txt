@@ -1,4 +1,4 @@
-Grupo_3
+Grupo_de_Testes_Back-End 3
 
 Téo Amaral Lopes Teixeira
 Daniel Medeiros Marques Rocha
